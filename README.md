@@ -1,4 +1,4 @@
-
+link:https://github.com/Priyadharshini831/Naan-mudhalvan
 🏥 AI Healthcare Diagnostic System This project is a web-based healthcare diagnostic system that allows patient registration, stores their medical details, and provides downloadable reports in Excel and CSV formats. It also includes a chatbot-style assistant for basic healthcare interactions.
 
 📁 Project Structure bash Copy Edit ├── index.htm # Frontend HTML for patient input and chatbot ├── styles.css # Styling (assumed external) ├── script.js # Frontend interactivity (assumed external) ├── python.py # Flask backend API ├── patient_records.xlsx # Auto-generated Excel record of patients 🚀 Features Patient registration form with details like name, age, height, weight, and symptoms.
